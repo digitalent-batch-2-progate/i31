@@ -1,9 +1,11 @@
 .contents-main {
     height: 200px;
+    display: block;
 }
 
 .contents-extra {
     height: 200px;
+    display: block;
 }
 
 body {
