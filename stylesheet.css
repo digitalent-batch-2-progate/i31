@@ -1,11 +1,14 @@
 .contents-main {
     height: 200px;
     display: block;
+    padding-top: 150px;
+    background-color: #fcc;
 }
 
 .contents-extra {
     height: 200px;
     display: block;
+    background-color: #cfc;
 }
 
 body {
