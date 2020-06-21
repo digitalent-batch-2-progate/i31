@@ -11,7 +11,7 @@
     height:625px;
     background-image:url(download.jpg);
     background-repeat:no-repeat;
-    background-size:100%;
+    background-size:cover;
 }
 
 .contents-extra h1 {
