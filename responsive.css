@@ -2,10 +2,18 @@
 	.contents-main {
     	background-size: auto 400px;
 	}
+	
+	.container-main h1 {
+		font-size: 20px;
+	}
 }
 
 @media(max-width: 670px) {
 	.contents-main {
     	background-size: auto 400px;
+	}
+	
+	.container-main h1 {
+		font-size: 15px;
 	}
 }
