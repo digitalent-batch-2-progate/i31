@@ -20,6 +20,46 @@
 	color: #9ca0a1;
 }
 
+.isi {
+  height: 350px;
+  background-color: #white;
+}
+
+.pembungkus-isi {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+
+.pembungkus-isi h2 {
+  color: #5f5d60;
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.pembungkus-bahasa {
+  float: left;
+  width: 25%;
+}
+
+.icon-bahasa {
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.icon-bahasa p {
+  color: #b3aeb5;
+}
+
+.deskripsi-bahasa {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 15px;
+  color: #b3aeb5;
+}
+
 .contents-extra {
     padding-top:20px;
     width:100%;
