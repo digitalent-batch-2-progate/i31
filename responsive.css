@@ -1,7 +1,6 @@
 @media (max-width: 1000px) {
 	.contents-main {
-    	background-size: contain;
-		background-repeat: no-repeat;
+    	background-size: cover;
 	}
 	
 	.container-main h1 {
@@ -15,8 +14,7 @@
 
 @media(max-width: 670px) {
 	.contents-main {
-    	background-size: contain;
-		background-repeat: no-repeat;
+    	background-size: cover;
 	}
 	
 	.container-main h1 {
