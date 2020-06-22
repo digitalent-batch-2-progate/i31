@@ -1,11 +1,11 @@
 @media (max-width: 1000px) {
 	.contents-main {
-    	background-size: 1000px auto;
+    	background-size: auto 400px;
 	}
 }
 
 @media(max-width: 670px) {
 	.contents-main {
-    	background-size: 670px auto;
+    	background-size: auto 400px;
 	}
 }
