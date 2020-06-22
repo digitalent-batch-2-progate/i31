@@ -202,7 +202,7 @@ header {
     background-color: rgba(23, 14, 119, 0.712);
     position: fixed;
     top: 0;
-    z-index: 0;
+    z-index: 10;
 }
 
 .logo {
