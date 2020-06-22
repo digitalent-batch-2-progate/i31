@@ -1,8 +1,23 @@
 .contents-main {
-    height: 200px;
+    height: 400px;
     display: block;
-    padding-top: 150px;
-    background-color: #fcc;
+    padding-top: 300px;
+    background-image: url('https://media.edutopia.org/styles/responsive_2880px_16x9/s3/masters/2019-11/iStock-1000097670-COMP.jpg');
+	background-size: 100%;
+	text-align: center;
+}
+
+.container-main {
+	background-color: rgb(255, 255, 255, 0.8);
+	padding: 20px 0;
+}
+
+.container-main h1 {
+	color: #59448f;
+}
+
+.container-main p {
+	color: #9ca0a1;
 }
 
 .contents-extra {
